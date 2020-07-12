@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Julien Chien</title>
+    <link>https://julienchien.com/tags/</link>
+    <description>Recent content in Tags on Julien Chien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 14 May 2020 01:03:49 -0700</lastBuildDate>
+    
+	<atom:link href="https://julienchien.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>future of work</title>
+      <link>https://julienchien.com/tags/future-of-work/</link>
+      <pubDate>Thu, 14 May 2020 01:03:49 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/future-of-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post-pandemic</title>
+      <link>https://julienchien.com/tags/post-pandemic/</link>
+      <pubDate>Thu, 14 May 2020 01:03:49 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/post-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WFH</title>
+      <link>https://julienchien.com/tags/wfh/</link>
+      <pubDate>Thu, 14 May 2020 01:03:49 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/wfh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://julienchien.com/tags/programming/</link>
+      <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://julienchien.com/tags/python/</link>
+      <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://julienchien.com/tags/ruby/</link>
+      <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://julienchien.com/tags/hello/</link>
+      <pubDate>Sat, 02 May 2020 21:21:05 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julien</title>
+      <link>https://julienchien.com/tags/julien/</link>
+      <pubDate>Sat, 02 May 2020 21:21:05 -0700</pubDate>
+      
+      <guid>https://julienchien.com/tags/julien/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

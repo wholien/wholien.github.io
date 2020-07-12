@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://julienchien.com/posts/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/future-of-work/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/post-pandemic/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/posts/post-pandemic-work-life/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/wfh/</loc>
+    <lastmod>2020-05-14T01:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/programming/</loc>
+    <lastmod>2020-05-10T15:36:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/python/</loc>
+    <lastmod>2020-05-10T15:36:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/ruby/</loc>
+    <lastmod>2020-05-10T15:36:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/posts/assignments-in-conditional-expressions/</loc>
+    <lastmod>2020-05-10T15:36:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/hello/</loc>
+    <lastmod>2020-05-02T21:21:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/posts/hello/</loc>
+    <lastmod>2020-05-02T21:21:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/tags/julien/</loc>
+    <lastmod>2020-05-02T21:21:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/about/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julienchien.com/categories/</loc>
+  </url>
+  
+</urlset>

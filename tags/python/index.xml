@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Julien Chien</title>
+    <link>https://julienchien.com/tags/python/</link>
+    <description>Recent content in python on Julien Chien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 10 May 2020 15:36:21 -0700</lastBuildDate>
+    
+	<atom:link href="https://julienchien.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ruby Assignments in Conditional Expressions</title>
+      <link>https://julienchien.com/posts/assignments-in-conditional-expressions/</link>
+      <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
+      
+      <guid>https://julienchien.com/posts/assignments-in-conditional-expressions/</guid>
+      <description>For around two and a half years, I had been working in a Python 2.x environment at my old job . Since switching companies, Ruby and Rails has replaced Python and Flask. At first glance, the languages don&amp;rsquo;t seem super different, but there are definitely common Ruby idioms that I needed to learn.
+While adding a new feature, I came across code that looked like this:
+if (variable = some_func()) do_something(variable) end Intuitively, I guessed this meant &amp;ldquo;if some_func() returns something, do_something with it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,146 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Julien Chien</title>
+        <link>https://julienchien.com/posts/</link>
+        <description>Recent content on Julien Chien</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 14 May 2020 01:03:49 -0700</lastBuildDate>
+        <atom:link href="https://julienchien.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Post-Pandemic Work Life: Going Into Work Once Per Week</title>
+            <link>https://julienchien.com/posts/post-pandemic-work-life/</link>
+            <pubDate>Thu, 14 May 2020 01:03:49 -0700</pubDate>
+            
+            <guid>https://julienchien.com/posts/post-pandemic-work-life/</guid>
+            <description>As the Covid-19 pandemic continues, working from home (“WFH”) has become one of the most talked about changes for those of us who can do it. WFH is not a fundamentally new concept. But before March 2020, it was seen as a perk, something weird Silicon Valley companies let their employees do every once in a while.
+Now, it’s become a necessity. Everyone that isn’t an essential worker is working from home.</description>
+            <content type="html"><![CDATA[<p>As the Covid-19 pandemic continues, working from home (“WFH”) has become one of the most talked about changes for those of us who can do it. WFH is not a fundamentally new concept. But before March 2020, it was seen as a perk, something weird Silicon Valley companies let their employees do every once in a while.</p>
+<p>Now, it’s become a necessity. Everyone that isn’t an essential worker is working from home. From lawyers to bankers, consultants to techies, everyone is adjusting to the new remote reality. What will happen in the post-pandemic world? Will we return to offices? Or will everyone follow <a href="https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever" target="_blank">Twitter’s lead and allow WFH forever?</a>
+</p>
+<h4 id="the-options">The Options</h4>
+<p>From my perspective, companies and employees have 3 options in a post-pandemic world:</p>
+<ol>
+<li>Go back to “normal”, where everyone goes into an office 4-5 days/week</li>
+<li>Have an office, but people only go in 1-2 times a week</li>
+<li>Go full remote. Everyone works from home, wherever their home is. No office.</li>
+</ol>
+<p>Many companies will choose option 1, either for the sake of normality, resisting change, or because they have to physically be in a location.</p>
+<p>Others will choose option 3 after they’ve found that they have adjusted well to working remote. Offices are so passé! Much ink has been spilled regarding fully remote companies, so I don’t need to go there.</p>
+<p>What I want to focus on is option 2, why many companies will choose it, people will prefer it, and the ramifications of a post-pandemic world where people go to the office once a week.</p>
+<h4 id="why-will-companies-want-this">Why will companies want this?</h4>
+<p>The most obvious one is cost! For starters, companies don’t need a desk for every employee since they won’t be using it most of the time. For the Twitters of the world, this means offices can be smaller and mostly composed of common areas and meeting rooms. For startups, this probably means renting coworking and meeting spaces once a week instead of having a normal lease. Both lead to the same thing: <a href="https://www.nytimes.com/2020/05/12/nyregion/coronavirus-work-from-home.html" target="_blank">companies spending less on real estate</a>
+.</p>
+<p>On a hiring and retention standpoint, only needing people to come in once a week is a great perk. In addition, companies choosing option 2 will need work processes and operations that are way closer to those of async, remote-first companies than those of companies that rely on synchronous, face-to-face decision-making. This means they can more readily hire and integrate fully remote employees. Perhaps even fully remote teams, like <a href="https://stripe.com/blog/remote-hub" target="_blank">Stripe has done</a>
+.</p>
+<h4 id="why-will-employees-prefer-this">Why will employees prefer this?</h4>
+<p>As alluded to above, once people acclimated to working from home they really like the flexibility. They have more time in the day since they don’t have to deal with a daily commute. They can spend that time however they want, whether it’s more sleep, exercise, a morning walk, or more time with their kids.</p>
+<p>One of the chief complaints people have had is Zoom fatigue and missing real life interactions with their coworkers. Well, having an office they can go into once a week would give them the <a href="https://twitter.com/dionlisle/status/1260693203495170048" target="_blank">best of both worlds</a>
+. They can retain the flexibility of WFH and have a physical office for collaboration and inspiration. Plus, people are friends with their coworkers and they want to see each other.</p>
+<p>The most interesting side effect is that people are no longer restricted in where they live and work. Most people find long commutes draining, so they live in areas with a daily commute that they can accept. Well, if they are only commuting once a week, the equation changes completely.</p>
+<h4 id="second-order-effects">Second order effects</h4>
+<p>A once-a-week commute means people will live in places they’ve never considered before. If someone worked in downtown San Francisco, they may only look at areas that give them a one-way commute of 30 minutes or less, like the Mission, NoPa, and Nob Hill.</p>
+<p>But if they only had to go in once a week, they could have a 2.5 hour commute and still spend the same amount of time commuting as they did before. They could live anywhere from Santa Cruz to Petaluma, from Sacramento to Modesto. This means people will live in places based on lifestyle first and foremost. Is it to be near a beach? Have a yard? Be in the middle of a city? Be in the mountains? Be near family and friends?</p>
+<p>As people live elsewhere and commute less often, those places will change and grow. Since people won’t be going to a centralized downtown for work everyday, they will be spending more time around their neighborhoods and in the businesses in their local area. This creates a lasting need for businesses there, and allows each neighborhood to establish their own hub of food and entertainment with their own characteristics. This in turn draws more people to live in that neighborhood, and creates a self-enforcing cycle.</p>
+<h4 id="not-all-roses">Not all roses</h4>
+<p>There are a lot of unknowns with this approach to working and running a company, simply because not many companies have tried it. Obvious questions come up that will need to be answered:</p>
+<ul>
+<li>
+<p>What happens if half of the employees go into the office everyday, while the other half go in once a week? What if yet another group goes in 3 days a week? This can quickly become chaotic.</p>
+</li>
+<li>
+<p>Will companies meaningfully reduce costs if they still need a big enough space to accommodate everyone at once?</p>
+</li>
+<li>
+<p>Will these companies actually hire worse, because they can’t attract people that skew fully remote or fully on-prem? Will employees that get used to this approach be stuck where they are because there aren’t enough other companies operating this way?</p>
+</li>
+</ul>
+<p>Small startups should be able to experiment with this more successfully: 10 or 15 people should be able to decide where and which day to meet. If this way of working is not successful, they can always go back to renting a permanent space at a WeWork (if it still exists).</p>
+<p>The most encouraging part is that large companies will be trying this. Many of us are watching with bated breath as Twitter navigates allowing everyone to WFH forever. It will be very interesting to see what strategies they try to deal with all the issues that will surely arise. Only when more companies experiment and share what they’ve learned will we all get more familiar and comfortable with trying a new kind of work life. There will be kinks to iron out for sure. But I, for one, am very bullish on its success.</p>
+<p>As we go through this pandemic, it’s great to see how we’ve adapted to a remote-first world. But offices aren’t going away, and only a few companies will truly be 100% remote. Many companies will be in the middle, where they will be mostly WFH but with a space for people to meet and work together in person on a weekly cadence. This will be a huge but gradual change to not only how we work, but where and how we live our lives.</p>
+<hr>
+<hr>
+<hr>
+<p>Thanks to Myra, Matt, and Varun for reading earlier versions and giving feedback.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Ruby Assignments in Conditional Expressions</title>
+            <link>https://julienchien.com/posts/assignments-in-conditional-expressions/</link>
+            <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
+            
+            <guid>https://julienchien.com/posts/assignments-in-conditional-expressions/</guid>
+            <description>For around two and a half years, I had been working in a Python 2.x environment at my old job . Since switching companies, Ruby and Rails has replaced Python and Flask. At first glance, the languages don&amp;rsquo;t seem super different, but there are definitely common Ruby idioms that I needed to learn.
+While adding a new feature, I came across code that looked like this:
+if (variable = some_func()) do_something(variable) end Intuitively, I guessed this meant &amp;ldquo;if some_func() returns something, do_something with it.</description>
+            <content type="html"><![CDATA[<p>For around two and a half years, I had been working in a Python 2.x environment at my <a href="https://www.linkedin.com/in/julienchien/" target="_blank">old job</a>
+. Since switching companies, Ruby and Rails has replaced Python and Flask. At first glance, the languages don&rsquo;t seem super different, but there are definitely common Ruby idioms that I needed to learn.</p>
+<p>While adding a new feature, I came across code that looked like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby"><span style="color:#66d9ef">if</span> (variable <span style="color:#f92672">=</span> some_func())
+  do_something(variable)
+<span style="color:#66d9ef">end</span>
+</code></pre></div><p>Intuitively, I guessed this meant &ldquo;if <code>some_func()</code> returns something, <code>do_something</code> with it.&rdquo; What took a second was understanding that you could do an assignment conditional expressions.</p>
+<h4 id="coming-from-python">Coming from Python</h4>
+<p>In Python 2.x land (and any Python 3 before 3.8), assigning a variable in a conditional expression would return a syntax error:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;</span><span style="color:#f92672">&gt;</span> <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">some_func</span>(): <span style="color:#66d9ef">return</span> <span style="color:#ae81ff">42</span>;
+<span style="color:#f92672">.</span><span style="color:#f92672">.</span><span style="color:#f92672">.</span>
+<span style="color:#f92672">&gt;&gt;</span><span style="color:#f92672">&gt;</span> <span style="color:#66d9ef">if</span> (a <span style="color:#f92672">=</span> some_func())
+  File <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&lt;stdin&gt;</span><span style="color:#e6db74">&#34;</span>, line <span style="color:#ae81ff">1</span>
+    <span style="color:#66d9ef">if</span> (a <span style="color:#f92672">=</span> some_func())
+          <span style="color:#f92672">^</span>
+<span style="color:#a6e22e">SyntaxError</span>: invalid syntax
+</code></pre></div><p>Most likely, the assignment in a conditional expression is a typo where the programmer meant to do a comparison <code>==</code> instead.</p>
+<p>This kind of typo is a big enough issue that there is a programming style called <a href="https://en.wikipedia.org/wiki/Yoda_conditions" target="_blank">Yoda Conditionals</a>
+, where the constant portion of a comparison is put on the left side of the operator. This would cause a syntax error if <code>=</code> were used instead of <code>==</code>, like this:</p>
+<pre><code>if (42 = x)
+  ...
+</code></pre><h4 id="back-to-ruby">Back to Ruby</h4>
+<p>Now that I&rsquo;ve come across this kind of assignment in Ruby for the first time, I searched whether assignments in conditional expressions were good style. Sure enough, the <a href="https://rubystyle.guide/" target="_blank">Ruby Style Guide</a>
+ has a section called <a href="https://rubystyle.guide/#safe-assignment-in-condition" target="_blank">&ldquo;Safe Assignment in Condition&rdquo;</a>
+. The section and examples are short and straightforward. You should take a look if this Ruby idiom is new to you!</p>
+<p>What is interesting about this idiom is that the assignment should be wrapped in parentheses. Take a look at the examples from the Ruby Style Guide:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby"><span style="color:#75715e"># bad (+ a warning)</span>
+<span style="color:#66d9ef">if</span> v <span style="color:#f92672">=</span> array<span style="color:#f92672">.</span>grep(<span style="color:#e6db74">/</span><span style="color:#e6db74">foo</span><span style="color:#e6db74">/</span>)
+  do_something(v)
+  <span style="color:#75715e"># some code</span>
+<span style="color:#66d9ef">end</span>
+
+<span style="color:#75715e"># good (MRI would still complain, but RuboCop won&#39;t)</span>
+<span style="color:#66d9ef">if</span> (v <span style="color:#f92672">=</span> array<span style="color:#f92672">.</span>grep(<span style="color:#e6db74">/</span><span style="color:#e6db74">foo</span><span style="color:#e6db74">/</span>))
+  do_something(v)
+  <span style="color:#75715e"># some code</span>
+<span style="color:#66d9ef">end</span>
+</code></pre></div><p>Why is the first example bad? Well, the Style Guide also says that you <a href="https://rubystyle.guide/#no-parens-around-condition" target="_blank">shouldn&rsquo;t put parentheses around conditional expressions</a>
+. Parentheses around assignments in conditional expressions are specifically called out as an exception to this rule.</p>
+<p>My guess is that by enforcing two different conventions, one for pure conditionals and one for assignments in conditionals, the onus is now on the programmer to decide what they want to do. This should prevent typos where an assignment <code>=</code> is used when a comparison <code>==</code> was intended, or vice versa.</p>
+<h4 id="the-python-equivalent">The Python Equivalent</h4>
+<p>As called out above, assignments in conditional expressions are possible in Python 3.8 via <a href="https://www.python.org/dev/peps/pep-0572/" target="_blank">PEP 572</a>
+. Instead of using an <code>=</code> for these kinds of assignments, the PEP introduced a new operator <code>:=</code>. As parentheses are more common in Python expressions, introducing a new operator <code>:=</code> (informally known as &ldquo;the walrus operator&rdquo;!!) was probably Python&rsquo;s solution to the typo issue.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Hello World!</title>
+            <link>https://julienchien.com/posts/hello/</link>
+            <pubDate>Sat, 02 May 2020 21:21:05 -0700</pubDate>
+            
+            <guid>https://julienchien.com/posts/hello/</guid>
+            <description>Hi everyone, this is my personal website.
+This will hopefully become the center of my internet presence. I will be writing about things I&amp;rsquo;ve learned, which could be as simple as summaries, to more complex and &amp;ldquo;original&amp;rdquo; things like my thoughts and reflections.
+There will hopefully be a bookshelf / book summaries section, where I summarize and review books.
+I will probably write about coding related stuff as well, but I&amp;rsquo;m not yet sure if it should have its own section.</description>
+            <content type="html"><![CDATA[<p>Hi everyone, this is my personal website.</p>
+<p>This will hopefully become the center of my internet presence. I will be writing about things I&rsquo;ve learned, which could be as simple as summaries, to more complex and &ldquo;original&rdquo; things like my thoughts and reflections.</p>
+<p>There will hopefully be a bookshelf / book summaries section, where I summarize and review books.</p>
+<p>I will probably write about coding related stuff as well, but I&rsquo;m not yet sure if it should have its own section. Expect to see changes to the site as I add to it.</p>
+<p>This site is currently generated using <a href="https://gohugo.io/" target="_blank">Hugo</a>
+ and the <a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/" target="_blank">Hello Friend NG theme</a>
+ (with slight customizations by yours truly).</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

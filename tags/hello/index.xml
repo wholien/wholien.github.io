@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello on Julien Chien</title>
+    <link>https://julienchien.com/tags/hello/</link>
+    <description>Recent content in hello on Julien Chien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 02 May 2020 21:21:05 -0700</lastBuildDate>
+    
+	<atom:link href="https://julienchien.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://julienchien.com/posts/hello/</link>
+      <pubDate>Sat, 02 May 2020 21:21:05 -0700</pubDate>
+      
+      <guid>https://julienchien.com/posts/hello/</guid>
+      <description>Hi everyone, this is my personal website.
+This will hopefully become the center of my internet presence. I will be writing about things I&amp;rsquo;ve learned, which could be as simple as summaries, to more complex and &amp;ldquo;original&amp;rdquo; things like my thoughts and reflections.
+There will hopefully be a bookshelf / book summaries section, where I summarize and review books.
+I will probably write about coding related stuff as well, but I&amp;rsquo;m not yet sure if it should have its own section.</description>
+    </item>
+    
+    <item>
+      <title>Hi!</title>
+      <link>https://julienchien.com/about/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://julienchien.com/about/</guid>
+      <description>I&amp;rsquo;m Julien Chien, nice to meet you! Currently based in San Francisco, where I work at a startup. Previously, I&amp;rsquo;ve lived and studied in Shanghai and the Los Angeles area.
+I am passionate about tech, economics, running, football (soccer), communities &amp;amp; how they work, urbanism &amp;amp; cities, and internet phenomena.
+Drop me a line at hello@julienchien.com or on Twitter !</description>
+    </item>
+    
+  </channel>
+</rss>
