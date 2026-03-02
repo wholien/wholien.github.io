@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ruby on Julien Chien</title>
+    <title>Ruby on Julien Chien</title>
     <link>https://julienchien.com/tags/ruby/</link>
-    <description>Recent content in ruby on Julien Chien</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ruby on Julien Chien</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 10 May 2020 15:36:21 -0700</lastBuildDate>
-    
-	<atom:link href="https://julienchien.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://julienchien.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ruby Assignments in Conditional Expressions</title>
       <link>https://julienchien.com/posts/assignments-in-conditional-expressions/</link>
       <pubDate>Sun, 10 May 2020 15:36:21 -0700</pubDate>
-      
       <guid>https://julienchien.com/posts/assignments-in-conditional-expressions/</guid>
-      <description>For around two and a half years, I had been working in a Python 2.x environment at my old job . Since switching companies, Ruby and Rails has replaced Python and Flask. At first glance, the languages don&amp;rsquo;t seem super different, but there are definitely common Ruby idioms that I needed to learn.
-While adding a new feature, I came across code that looked like this:
-if (variable = some_func()) do_something(variable) end Intuitively, I guessed this meant &amp;ldquo;if some_func() returns something, do_something with it.</description>
+      <description>&lt;p&gt;For around two and a half years, I had been working in a Python 2.x environment at my &lt;a href=&#34;https://www.linkedin.com/in/julienchien/&#34; target=&#34;_blank&#34;&gt;old job&lt;/a&gt;&#xA;. Since switching companies, Ruby and Rails has replaced Python and Flask. At first glance, the languages don&amp;rsquo;t seem super different, but there are definitely common Ruby idioms that I needed to learn.&lt;/p&gt;&#xA;&lt;p&gt;While adding a new feature, I came across code that looked like this:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (variable &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; some_func())&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  do_something(variable)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Intuitively, I guessed this meant &amp;ldquo;if &lt;code&gt;some_func()&lt;/code&gt; returns something, &lt;code&gt;do_something&lt;/code&gt; with it.&amp;rdquo; What took a second was understanding that you could do an assignment conditional expressions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
